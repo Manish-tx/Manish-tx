@@ -18,11 +18,6 @@ I am an engineering undergraduate at IIT Patna. My work centers on distributed s
 * Implementing distributed node-based communication architectures utilizing ROS2 and DDS for autonomous navigation.
 * Interested in message-oriented middleware, system-level C/C++, and scalable backend infrastructure.
 
-### GitHub Analytics
-
-<a href="https://github.com/Manish-tx">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish-tx&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777&show_icons=false" alt="GitHub Stats" />
-</a>
 
 ### Technical Stack
 
